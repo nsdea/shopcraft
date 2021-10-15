@@ -1,0 +1,12 @@
+[
+  {
+    "type": "gutschein",
+    "id": 123456,
+    "balance": 30
+  },
+  {
+    "type": "vip",
+    "id": 321456,
+    "balance": 10
+  }
+]
